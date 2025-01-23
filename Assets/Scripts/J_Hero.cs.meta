@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/J_Hero.cs.meta
+guid: 246aefddb32997343a619f412bc3e913
+========
+guid: f5210532162764f46914f341b273870d
+>>>>>>>> main:Assets/Scripts/S_Witch.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
